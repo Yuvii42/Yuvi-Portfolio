@@ -26,6 +26,11 @@ const App = () => {
       {/* Reusable Card Component */}
       {[
         {
+          title: "Quick-Report",
+          desc: "Full‑stack platform to upload Excel/CSV files and instantly get interactive insights. Backend (FastAPI + Pandas) processes data and serves chart‑ready JSON. Frontend (React + Vite + Tailwind + Recharts) renders an elegant dashboard with dark mode, filters, and export options.",
+          url: "https://github.com/Yuvii42/Quick-Report",
+        },
+        {
           title: "Karn- Blood and Organ Management",
           desc: "Karn is a comprehensive platform designed to connect blood and organ donors with recipients in need. The platform facilitates seamless donor registration, request management, and real-time matching to ensure timely assistance in life-saving situations.",
           url: "https://github.com/Yuvii42/Karn-Blood-bank-and-Organ-management",
